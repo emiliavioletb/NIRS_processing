@@ -1,6 +1,7 @@
 # NIRS processing repository
 
 Created by Emilia Butters on 17/01/2022.
+
 Authors: Emilia Butters, Raul Hernandez and Sruthi Srinivasan. 
 
 ## Description
